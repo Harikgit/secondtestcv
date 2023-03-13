@@ -138,6 +138,11 @@ p {
     padding: 50px auto;
 }
 
+.profile-pic {
+    width:15%;
+    margin: 3% 0 0 0;
+}
+
 .py-pic {
     float: left;
     margin-right: 30px;
